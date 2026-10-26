@@ -982,5 +982,208 @@
     "revision": "historical patch on 29d420e; not current verification",
     "bytes": 104108,
     "sha256": "9649968569c631b1bd15533aca586b743cb99b793f6eb3765ff427ef6492955b"
+  },
+  {
+    "path": "current-head-2026-10-26/conversation-tool-call-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 639305,
+    "sha256": "5c1e47e36341ba4f5923275c5b3387905f60259521e45252d18c621b214025f6",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/landing-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 597637,
+    "sha256": "51bad6b3ec8d27d78b51c36b92193419bc3fe3c23b2b512cd195373bb9a52802",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/landing-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 614964,
+    "sha256": "7347ecedf7ec3194a494d2c04dfc69b8176ee3b61e23de32c2092f5990270562",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/landing-scrolled-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 666669,
+    "sha256": "e502c3d8d3c8f899b4458fc6c124996846c2d12bc783a52a5a0412f84fa1c86f",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/landing-scrolled-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 678749,
+    "sha256": "48184907d991016f8a4d48ede003084d0cf3f445fefeff16a1cab1b93af2591c",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/library-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 163392,
+    "sha256": "7dd270b52547c80af3a582bee60d9a5f0ed79a072ac50119da8271fd745b167b",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-blush-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 29262,
+    "sha256": "f3066c946135975f91546ad224b4c8f28e972e5f1b660a084cafe9b11c576bc4",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-blush-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 29262,
+    "sha256": "f3066c946135975f91546ad224b4c8f28e972e5f1b660a084cafe9b11c576bc4",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-butter-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 29209,
+    "sha256": "6cefdaca3f4fdb0d9e5f74c4c4e514993acea50e37e8e3af9e4c226a092bd69b",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-butter-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 29209,
+    "sha256": "6cefdaca3f4fdb0d9e5f74c4c4e514993acea50e37e8e3af9e4c226a092bd69b",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-color-menu-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 35603,
+    "sha256": "79adbf0ee90f54bf3427af172e866b4e998bc56b4dc2e76aa6b35fd06be9d5c2",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-color-menu-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 35603,
+    "sha256": "79adbf0ee90f54bf3427af172e866b4e998bc56b4dc2e76aa6b35fd06be9d5c2",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-formatting-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 30506,
+    "sha256": "8951a4dd519ff2c22a3bec1fba74a20f55ce52af8d66d31faf85ec6d09e60991",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-formatting-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 30506,
+    "sha256": "8951a4dd519ff2c22a3bec1fba74a20f55ce52af8d66d31faf85ec6d09e60991",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-label-menu-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 26515,
+    "sha256": "f5311ebe7057837886d195d5ad0d3a6aa652cc86a26a2d1f3dd15ba9c2053379",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-label-menu-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 26515,
+    "sha256": "f5311ebe7057837886d195d5ad0d3a6aa652cc86a26a2d1f3dd15ba9c2053379",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-lilac-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 28534,
+    "sha256": "ad679e5a43a2647736315bb5b135aed8727ad78f371450a6d18f5b69c4303f5b",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-lilac-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 28534,
+    "sha256": "ad679e5a43a2647736315bb5b135aed8727ad78f371450a6d18f5b69c4303f5b",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-mint-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 28307,
+    "sha256": "5adfecfe9f1faac41053e26d795db03c446a7a3a05f20f9125cef69997f19551",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-mint-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 28307,
+    "sha256": "5adfecfe9f1faac41053e26d795db03c446a7a3a05f20f9125cef69997f19551",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-sky-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 29163,
+    "sha256": "9eb207873d70a16658a005139e28b390cc68323f03efd0f42c3823520fa33d5f",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-sky-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 29163,
+    "sha256": "9eb207873d70a16658a005139e28b390cc68323f03efd0f42c3823520fa33d5f",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-text-color-menu-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 42492,
+    "sha256": "58a09411851d4d3ad272e4d5b4862ab554287bbc7a53d135cadcf3cf95e0b782",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/note-text-color-menu-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 42492,
+    "sha256": "58a09411851d4d3ad272e4d5b4862ab554287bbc7a53d135cadcf3cf95e0b782",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/notes-grid-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 70845,
+    "sha256": "17b38930ab4c00161028be24c02b96673d42f070319b001f123dded173c8c66b",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/notes-grid-light.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 71273,
+    "sha256": "1ec091865891aaeeac427ee206e63c3292a5506b3eef0b7d6ff6bf6e2c71eb1c",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/shared-blocked-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 8874,
+    "sha256": "077deba67218017c3c07b50c15fcc8e02fc534630d6db7b639357c14a685ae81",
+    "status": "blocked"
+  },
+  {
+    "path": "current-head-2026-10-26/timeline-selected-title-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 628182,
+    "sha256": "bc1b8b5bfee54be02a8657978709ca3f010a181858f3f900eaf949712ebb5022",
+    "status": "captured-and-inspected"
+  },
+  {
+    "path": "current-head-2026-10-26/timeline-selected-video-dark.png",
+    "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+    "bytes": 592593,
+    "sha256": "19ccecca06d9b2b429c38008f40f52071700d16a8b85c4450edd916c6e565f05",
+    "status": "captured-and-inspected"
   }
 ]

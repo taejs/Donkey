@@ -1,0 +1,27 @@
+{
+  "revision": "55c748d678337fb90eca64477d9878e140f30a79",
+  "viewport": "1920x1080",
+  "comparison": "Independent system-light and system-dark contexts; no forced root theme class; full open-note PNGs with caret hidden",
+  "colors": {
+    "butter": {
+      "fullScreenshotByteIdentical": true,
+      "sha256": "6cefdaca3f4fdb0d9e5f74c4c4e514993acea50e37e8e3af9e4c226a092bd69b"
+    },
+    "blush": {
+      "fullScreenshotByteIdentical": true,
+      "sha256": "f3066c946135975f91546ad224b4c8f28e972e5f1b660a084cafe9b11c576bc4"
+    },
+    "sky": {
+      "fullScreenshotByteIdentical": true,
+      "sha256": "9eb207873d70a16658a005139e28b390cc68323f03efd0f42c3823520fa33d5f"
+    },
+    "mint": {
+      "fullScreenshotByteIdentical": true,
+      "sha256": "5adfecfe9f1faac41053e26d795db03c446a7a3a05f20f9125cef69997f19551"
+    },
+    "lilac": {
+      "fullScreenshotByteIdentical": true,
+      "sha256": "ad679e5a43a2647736315bb5b135aed8727ad78f371450a6d18f5b69c4303f5b"
+    }
+  }
+}
